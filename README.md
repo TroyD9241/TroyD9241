@@ -1,7 +1,8 @@
+### Hello ! 👀
+
+[![Troy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TroyD9241)](https://github.com/anuraghazra/github-readme-stats)
+
 -----------------
-> ### Hello ! 👀
-
-
 >My name is Troy Dawson. I'm currently in week 15 of App Academy's Full Stack Program. 👨‍🎓
 
 > Based out of Chicago, Illinois. 🎶
