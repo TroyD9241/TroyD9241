@@ -1,6 +1,4 @@
 ### Hello ! 👀
--------------------------------------------
-### *About Me*
 -----------------------
 >My name is Troy Dawson. I'm currently in week 15 of App Academy's Full Stack Program. 👨‍🎓
 
