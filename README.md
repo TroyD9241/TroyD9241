@@ -1,11 +1,12 @@
 ### Hello ! 👀
 
-[![Troy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TroyD9241)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+![Troy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TroyD9241&show_icons=true&theme=tokyonight)
+
 
 -----------------
 >My name is Troy Dawson. I'm currently in week 15 of App Academy's Full Stack Program. 👨‍🎓
 
-> Based out of Chicago, Illinois. 🎶
+> Based out of Chicago, Illinois and Tokyo, Japan. 🎶
 
 > Actively looking for my first opportunity in software engineering.
 
