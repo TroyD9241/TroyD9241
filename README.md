@@ -50,8 +50,3 @@
 >**My orginizations**
 
 > -⚔[BlackKnight](https://github.com/Black-Knight-OG)🤺
-
->**My Social Media**
-
-![[Linkedin](https://www.linkedin.com/in/troyd41/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
