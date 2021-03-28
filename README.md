@@ -15,7 +15,7 @@
 > - Japansese 🎎
 
 
->**Languages I use daily**👇👇👇👇
+>**Languages I use daily**👇👇👇👇👇
 -----------------------------
 >  ## <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 > <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -32,21 +32,21 @@
 >## <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 > <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 -------------------------------------------------------------------
->**Languages I'm learning**👇👇👇
+>**Languages I'm learning**👇👇👇👇
 > - `Lua`
 > - `Scala`
 -----------------------------------------
->**Libraries I'm learning**👇👇
+>**Libraries I'm learning**👇👇👇
 > - 🧠`Tensor Flow`🤖
 > - 📈`GraphQL`📉
 -------------------------------
->**Applications I use**
+>**Applications I use**👇👇
 > - 📮`Postman`📮
 > - 🕊`PostBird`🕊
 > - ✍`Vs-Code`✍
 > - 🎨`Trello`👩‍🎨
 > ---------------------
->**Applications I'm learning**
+>**Applications I'm learning**👇
 > - `QT`
 > -----------------------------
 
