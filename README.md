@@ -48,6 +48,7 @@
 > ---------------------
 >**Applications I'm learning**👇
 > - `QT`
+> - `Swagger`
 > -----------------------------
 
 >**My orginizations**🐸
