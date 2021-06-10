@@ -4,7 +4,7 @@
 
 
 -----------------
->My name is Troy Dawson. I'm currently in week 17 of App Academy's Full Stack Program. 👨‍🎓
+>My name is Troy Dawson. I'm  a recent graduate of App Academy's Full Stack Program. 👨‍🎓
 
 > Based out of Chicago, Illinois and Tokyo, Japan. 🎶
 
