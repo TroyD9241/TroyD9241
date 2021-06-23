@@ -8,7 +8,9 @@
 
 > Based out of Chicago, Illinois and Tokyo, Japan. 🎶
 
-> Actively looking for my first opportunity in software engineering.
+> Actively looking for my first opportunity in software engineering. Please checkout my portfolio site or connect with me on [linkedin](https://www.linkedin.com/in/troyd41/)
+
+> Currently learning Data Science and working on Data Structures & Algorithms!!
 
 >  ***Bilingual*** 🌏
 > - English 🌎
