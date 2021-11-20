@@ -10,7 +10,7 @@
 
 > Actively looking for my first opportunity in software engineering. Please checkout my portfolio site or connect with me on [linkedin](https://www.linkedin.com/in/troyd41/)
 
-> Currently learning Data Science and working on Data Structures & Algorithms!!
+> Currently looking to expand into the web3 world. 
 
 >  ***Bilingual*** 🌏
 > - English 🌎
@@ -37,6 +37,8 @@
 >**Languages I'm learning**👇👇👇👇
 > - `Lua`
 > - `Scala`
+> - 'Solidity'
+> - 'Rust'
 -----------------------------------------
 >**Libraries I'm learning**👇👇👇
 > - 🧠`Tensor Flow`🤖
