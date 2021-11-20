@@ -37,8 +37,8 @@
 >**Languages I'm learning**👇👇👇👇
 > - `Lua`
 > - `Scala`
-> - 'Solidity'
-> - 'Rust'
+> - `Solidity`
+> - `Rust`
 -----------------------------------------
 >**Libraries I'm learning**👇👇👇
 > - 🧠`Tensor Flow`🤖
