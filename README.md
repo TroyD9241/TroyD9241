@@ -16,6 +16,9 @@
 > - English 🌎
 > - Japansese 🎎
 
+> ***Learning***
+> - Français 
+
 
 >**Languages I use daily**👇👇👇👇👇
 -----------------------------
