@@ -60,7 +60,7 @@
 
 >**My orginizations**🐸
 
-> Wall3t
-> Metav3rse
-> Alpha
+> - Wall3t
+> - Metav3rse
+> - Alpha
 > ----------------------------------
