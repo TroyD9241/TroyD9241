@@ -14,7 +14,7 @@
 
 >  ***Bilingual*** 🌏
 > - English 🌎
-> - Japansese 🎎
+> - Japanese 🎎
 
 > ***Learning***
 > - Français 
