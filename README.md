@@ -4,13 +4,12 @@
 
 
 -----------------
->My name is Troy Dawson. I'm  a recent graduate of App Academy's Full Stack Program. 👨‍🎓
+>My name is Troy Dawson. Software Engineer! 
 
 > Based out of Chicago, Illinois and Tokyo, Japan. 🎶
 
-> Actively looking for my first opportunity in software engineering. Please checkout my portfolio site or connect with me on [linkedin](https://www.linkedin.com/in/troyd41/)
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/troyd41/)
 
-> Currently looking to expand into the web3 world. 
 
 >  ***Bilingual*** 🌏
 > - English 🌎
@@ -54,7 +53,6 @@
 > - 🎨`Trello`👩‍🎨
 > ---------------------
 >**Applications I'm learning**👇
-> - `QT`
 > - `Swagger`
 > -----------------------------
 
